@@ -51,13 +51,13 @@ Using **Ngrok**, we exposed the app to the internet from Google Colab, allowing 
 * Get real-time inpainted results.
 
 #### 📸 Web App Homepage:
-![](webinterface.jpg)
+![](web.jpg)
 
 #### 📸 Image Upload Section:
-![](inputinterface.jpg)
+![](input.jpg)
 
 #### 📸 Sample Inpainting Result:
-![](outputinterface.jpg)
+![](output.jpg)
 
 ---
 
